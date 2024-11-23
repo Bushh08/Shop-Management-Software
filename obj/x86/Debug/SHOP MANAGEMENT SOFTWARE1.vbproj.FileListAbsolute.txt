@@ -1,0 +1,23 @@
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\bin\Debug\SHOP MANAGEMENT SOFTWARE1.exe
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\bin\Debug\SHOP MANAGEMENT SOFTWARE1.pdb
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\bin\Debug\SHOP MANAGEMENT SOFTWARE1.xml
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Resources.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP MANAGEMENT SOFTWARE1.vbproj.GenerateResource.Cache
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP MANAGEMENT SOFTWARE1.exe
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP MANAGEMENT SOFTWARE1.xml
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP MANAGEMENT SOFTWARE1.pdb
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\bin\Debug\SHOP MANAGEMENT SOFTWARE1.exe.config
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP MANAGEMENT SOFTWARE1.vbprojResolveAssemblyReference.cache
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Customer_Details.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Delete_bill.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Main.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Generate_Bill.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Invoice.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Add_Item.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Login.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.user_account.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Update__Delete_Items.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.About_Software.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Form1.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.Duplicate_Bill.resources
+C:\Users\pcm\documents\visual studio 2010\Projects\SHOP MANAGEMENT SOFTWARE1\SHOP MANAGEMENT SOFTWARE1\obj\x86\Debug\SHOP_MANAGEMENT_SOFTWARE.total_sale.resources
